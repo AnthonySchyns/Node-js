@@ -1,0 +1,17 @@
+{
+  "name": "@anthony513/pokemon",
+  "version": "1.0.0",
+  "description": "poke quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0",
+    "terminal-kit": "^1.35.2"
+  }
+}
